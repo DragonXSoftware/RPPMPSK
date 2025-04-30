@@ -1,2 +1,2 @@
 # RPPMPSK
-Code for my Micro Python Youtube Viewers
+Welcome to my collection of MicroPython projects developed using the Inland Raspberry Pi Pico Starter Kit. This repository showcases various beginner-friendly experiments aimed at exploring the capabilities of the Raspberry Pi Pico and learning MicroPython programming.
